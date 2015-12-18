@@ -16,7 +16,6 @@ namespace CSharpTextRpg
             int Player_Two_Handed = 0;
             int Player_Ranged_Weapon = 0;
             int Player_Magic = 0;
-            int Arraycount = 0;
             int Player_Attack_Type = 0;
             int Player_One_Weapon_Damage = 2;
             int Player_Health_Points = 20;
@@ -34,7 +33,6 @@ namespace CSharpTextRpg
             string Player_Gender;
             string Player_Race;
             string Player_Class;
-            string[] Inventory = new string[20];
             string Input;
             string Enemy_Name;
             string Enemy_Name2;
